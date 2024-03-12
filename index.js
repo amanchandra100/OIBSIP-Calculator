@@ -18,7 +18,7 @@ Array.from(button).forEach((button)=>{
 })
 
 
-// dark mode code
+// dark mode ka code
 // const body12=document.getElementsByClassName('body1');
 let btn = document.getElementById('btndark');
 btn.addEventListener('click',(btn1)=>{
